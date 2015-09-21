@@ -24,6 +24,9 @@
     <module>resources</module>
     <module>services</module>
     <module>app-core</module>
+    <module>rest-inbound</module>
+    <module>translation</module>
+    <module>outbound</module>
   </modules>
   
 </project>
